@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="Main" ID="{E7EB3617-32AD-40D2-B506-9B898F76B94C}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Play_sci_fi_bar_music" ID="{9E11604E-8712-4A3F-B17D-017D1DCFE097}" WorkUnitID="{D5CF369C-B65E-4FFD-BD8B-D04F264CBA1A}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Play_Diplo" ID="{6DF85B7B-36FC-4CA4-AE7B-89946BB8FDD0}" WorkUnitID="{D5CF369C-B65E-4FFD-BD8B-D04F264CBA1A}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

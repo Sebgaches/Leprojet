@@ -22,6 +22,25 @@
 						<ActiveSource Name="02 Big Lost" ID="{E4CE3E34-D059-4434-84CE-EB1D543E6597}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="sci fi bar music" ID="{AED64A91-C675-4584-AEF1-8A3F18321E56}" ShortID="889559861">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{038F0BE7-7F9D-465D-B09F-72CDDB8B185C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E1D46119-34C9-47B3-9596-996174D84846}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sci fi bar music" ID="{7246A956-573D-45B2-8FB4-C215C156241F}" ShortID="795375080">
+							<Language>SFX</Language>
+							<AudioFile>sci fi bar music.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="sci fi bar music" ID="{7246A956-573D-45B2-8FB4-C215C156241F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

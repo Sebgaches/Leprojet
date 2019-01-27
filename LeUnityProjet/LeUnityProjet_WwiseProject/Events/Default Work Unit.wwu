@@ -17,6 +17,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_sci_fi_bar_music" ID="{9E11604E-8712-4A3F-B17D-017D1DCFE097}">
+					<ChildrenList>
+						<Action Name="" ID="{DB3A01CB-A3E9-4A25-8602-75249CB53CAC}" ShortID="261750827">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sci fi bar music" ID="{AED64A91-C675-4584-AEF1-8A3F18321E56}" WorkUnitID="{91C6BAE6-3B72-476C-9E48-D3CB3AC3C5F0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
