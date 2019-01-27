@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1333859390	Play_Diplo			\Default Work Unit\Play_Diplo	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1050739560	02 Big Lost	C:\Users\sebga.LAPTOP-O53H1CBO\Documents\Leprojet\LeUnityProjet\LeUnityProjet_WwiseProject\.cache\Windows\SFX\02 Big Lost_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\02 Big Lost		5084518
+

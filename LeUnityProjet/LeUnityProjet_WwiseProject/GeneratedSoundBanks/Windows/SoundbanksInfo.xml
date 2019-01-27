@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\sebga.LAPTOP-O53H1CBO\Documents\Leprojet\LeUnityProjet\LeUnityProjet_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\sebga.LAPTOP-O53H1CBO\Documents\Leprojet\LeUnityProjet\LeUnityProjet_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\sebga.LAPTOP-O53H1CBO\Documents\Leprojet\LeUnityProjet\LeUnityProjet_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\sebga.LAPTOP-O53H1CBO\Documents\Leprojet\LeUnityProjet\LeUnityProjet_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1333859390" Name="Play_Diplo" ObjectPath="\Events\Default Work Unit\Play_Diplo"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1050739560" Language="SFX">
+					<ShortName>02 Big Lost.wav</ShortName>
+					<Path>SFX\02 Big Lost_A1793BE9.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

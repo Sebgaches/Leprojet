@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D5CF369C-B65E-4FFD-BD8B-D04F264CBA1A}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{D5CF369C-B65E-4FFD-BD8B-D04F264CBA1A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Diplo" ID="{6DF85B7B-36FC-4CA4-AE7B-89946BB8FDD0}">
+					<ChildrenList>
+						<Action Name="" ID="{F274E29C-F4B8-46A5-84D1-213E5B6B1BA3}" ShortID="140387543">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="02 Big Lost" ID="{0FD22CC4-F5B3-4955-B647-4DAA027EA663}" WorkUnitID="{91C6BAE6-3B72-476C-9E48-D3CB3AC3C5F0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

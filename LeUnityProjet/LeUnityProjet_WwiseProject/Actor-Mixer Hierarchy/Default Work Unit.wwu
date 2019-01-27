@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{91C6BAE6-3B72-476C-9E48-D3CB3AC3C5F0}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{91C6BAE6-3B72-476C-9E48-D3CB3AC3C5F0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="02 Big Lost" ID="{0FD22CC4-F5B3-4955-B647-4DAA027EA663}" ShortID="117725739">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{038F0BE7-7F9D-465D-B09F-72CDDB8B185C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E1D46119-34C9-47B3-9596-996174D84846}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="02 Big Lost" ID="{E4CE3E34-D059-4434-84CE-EB1D543E6597}" ShortID="1050739560">
+							<Language>SFX</Language>
+							<AudioFile>02 Big Lost.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="02 Big Lost" ID="{E4CE3E34-D059-4434-84CE-EB1D543E6597}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

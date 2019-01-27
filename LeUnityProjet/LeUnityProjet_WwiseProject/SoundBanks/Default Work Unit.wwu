@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FA251EE6-5FED-4992-A114-97CAF2B9BB67}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{FA251EE6-5FED-4992-A114-97CAF2B9BB67}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{E7EB3617-32AD-40D2-B506-9B898F76B94C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Diplo" ID="{6DF85B7B-36FC-4CA4-AE7B-89946BB8FDD0}" WorkUnitID="{D5CF369C-B65E-4FFD-BD8B-D04F264CBA1A}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
