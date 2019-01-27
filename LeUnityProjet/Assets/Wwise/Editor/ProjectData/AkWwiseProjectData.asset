@@ -11,14 +11,80 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c29a9ee380c9324dbabc2a40092b11f, type: 3}
   m_Name: AkWwiseProjectData
   m_EditorClassIdentifier: 
-  AcousticTextureWwu: []
-  AuxBusWwu: []
-  BankWwu: []
-  EventWwu: []
-  RtpcWwu: []
-  StateWwu: []
-  SwitchWwu: []
-  TriggerWwu: []
-  ExpandedItems: []
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 77a8814a9486c54782a577538f6d38a0
+    m_lastTime: -8586529948032922499
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 1961d4e1c934b3479596996174d84846
+    m_lastTime: -8586529948033586203
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: e61e25faed5f9249a11497caf2b9bb67
+    m_lastTime: -8586529945462354096
+    List:
+    - name: Main
+      guid: 1736ebe7ad32d240b5069b898f76b94c
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit\Main
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 9c36cfd55eb6fd4fbd8bd04f264cba1a
+    m_lastTime: -8586529945462441959
+    List:
+    - name: Play_Diplo
+      guid: 7b5bf86dfc36a44cae7b89946bb8fdd0
+      id: 1333859390
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_Diplo
+        ObjectType: 3
+      Path: Default Work Unit\Play_Diplo
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 8e2319d6512d3540a20e4899789e67c8
+    m_lastTime: -8586529948033020103
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: ab9ce1507c061749b452b230daaca800
+    m_lastTime: -8586529948032297871
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 1043a2a6b9b1f344bb73bf2060f15b77
+    m_lastTime: -8586529948032541886
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 604b956d30486848a0965d66f0646a23
+    m_lastTime: -8586529948032844392
+    List: []
+  ExpandedItems:
+  - /LeUnityProjet_WwiseProject
+  - /LeUnityProjet_WwiseProject/Events
+  - /LeUnityProjet_WwiseProject/Events/Default Work Unit
+  - /LeUnityProjet_WwiseProject/SoundBanks
+  - /LeUnityProjet_WwiseProject/SoundBanks/Default Work Unit
   autoPopulateEnabled: 1
   CurrentPluginConfig: 
